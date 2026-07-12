@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kinza Chaudhary 👋
 
-<!--
-**kinza-chaudhary/kinza-chaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence Student at The Islamia University of Bahawalpur (IUB)
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- C++
+- Python
+- Artificial Intelligence
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+- Artificial Intelligence
+- Data Science
+- Deep Learning
+- Open Source
+
+## 🚀 Goals
+- Build impactful AI projects
+- Contribute to open-source projects
+- Continuously improve my programming skills
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/kinza-chaudhary-ai9882392
